@@ -23,10 +23,6 @@
     <a href="https://github.com/MochNad?tab=followers">
       <img src="https://img.shields.io/github/followers/MochNad?style=flat&label=Followers&logo=github&color=333" alt="Followers">
     </a>
-    &nbsp;
-    <a href="https://github.com/MochNad?tab=following">
-      <img src="https://img.shields.io/github/following/MochNad?style=flat&label=Following&logo=github&color=333" alt="Following">
-    </a>
   </p>
 
   <br>
