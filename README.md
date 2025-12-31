@@ -1,83 +1,53 @@
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="middle">
-      <h1>Hi, I'm Nadi! 👋</h1>
-      <p>
-        <b>Full-Stack Web Developer</b> from Indonesia 🇮🇩
-      </p>
-      <p>
-        I specialize in building scalable web applications and integrating intelligent features into software systems. My focus is on creating clean code, efficient backend structures, and responsive user interfaces.
-      </p>
-    </td>
-    <td width="30%" valign="middle" align="right">
-      <p align="right">
-        <a href="https://www.linkedin.com/in/mochnad">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
-        </a>
-        <br>
-        <a href="mailto:mochammadnadiraflimaulana@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<br>
+  <h1>Hi, I'm Nadi! 👋</h1>
+  
+  <p>
+    <b>Full-Stack Developer from Indonesia 🇮🇩</b>
+  </p>
+  
+  <p>
+    I build scalable web apps & intelligent systems using Data.<br>
+    <i>"Clean code, smart solutions."</i>
+  </p>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/MochNad?tab=repositories">
-        <img src="https://img.shields.io/github/public-repos/MochNad?style=social&label=Repositories" alt="Repos">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/MochNad?tab=followers">
-        <img src="https://img.shields.io/github/followers/MochNad?style=social&label=Followers" alt="Followers">
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/MochNad?tab=following">
-        <img src="https://img.shields.io/github/following/MochNad?style=social&label=Following" alt="Following">
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://www.linkedin.com/in/mochnad">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:mochammadnadiraflimaulana@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email">
+  </a>
 
-<br>
+  <br><br>
 
-<h3>🚀 Technology Stack</h3>
+  <a href="https://github.com/MochNad?tab=repositories">
+    <img src="https://img.shields.io/github/public-repos/MochNad?style=flat&label=Repositories&color=success" height="20">
+  </a>
+  &nbsp;
+  <a href="https://github.com/MochNad?tab=followers">
+    <img src="https://img.shields.io/github/followers/MochNad?style=flat&label=Followers&color=blue" height="20">
+  </a>
+  &nbsp;
+  <a href="https://github.com/MochNad?tab=following">
+    <img src="https://img.shields.io/github/following/MochNad?style=flat&label=Following&color=lightgrey" height="20">
+  </a>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">Languages & Data</h4>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=php,python,js,mysql,firebase&perline=3" alt="Languages"/>
-      </div>
-    </td>
+  <br><br><br>
 
-    <td width="33%" valign="top">
-      <h4 align="center">Frameworks & AI</h4>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=laravel,nextjs,tailwind,tensorflow" alt="Frameworks"/>
-        <br>
-        <img src="https://avatars.githubusercontent.com/u/33333965?s=200&v=4" width="48" height="48" style="margin: 4px;" alt="ONNX"/>
-      </div>
-    </td>
+  <h3>🚀 Technology Stack</h3>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,nextjs,tailwind,mysql,python,tensorflow,git,postman,vscode,firebase&perline=6" alt="My Skills" />
+  </a>
+  
+  <br><br>
+  
+  <p>Also exploring:</p>
+  <img src="https://avatars.githubusercontent.com/u/33333965?s=200&v=4" width="50" height="50" alt="ONNX" title="ONNX Runtime"/>
 
-    <td width="33%" valign="top">
-      <h4 align="center">Tools & Environment</h4>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,postman,vscode" alt="Tools"/>
-      </div>
-    </td>
-  </tr>
-</table>
+  <br><br><br>
 
-<br>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MochNad&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+
+</div>
